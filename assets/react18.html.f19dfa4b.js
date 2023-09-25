@@ -1,0 +1,1 @@
+const e={key:"v-0b126c08",path:"/react/react18.html",title:"React18\u65B0\u7279\u6027",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"React \u6027\u80FD\u4F18\u5316",slug:"react-\u6027\u80FD\u4F18\u5316",children:[]},{level:2,title:"\u6A21\u5757",slug:"\u6A21\u5757",children:[]}],git:{},filePathRelative:"react/react18.md"};export{e as data};
